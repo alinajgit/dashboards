@@ -1,2 +1,4 @@
 # dashboards
-Here I want to represent several dashboards. [This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1803/) shows the overview of key metrics of news feed users.
+Here I want to show several dashboards representing key metrics for a mobile application users. A little background information: the app consists of news feed and messenger. So the dashboards aim to answer product related questions such as: How many daily active users (DAU) we have? How are new users distributed by source of customer acquisition? Or what about user retention? etc. All dashboards I share here are interactive. 
+
+[This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1803/) shows the overview of key metrics of news feed users. There you can see total number of unique users, DAU, WAU, MAU, CTR and user activity. I also added filters to show the information in different data slices (by gender, operational system Android/iOS, acquisition source, age group). 
