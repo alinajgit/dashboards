@@ -5,4 +5,8 @@ Here I want to show several dashboards representing key metrics for a mobile app
 
 [This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1859/) presents key characteristics in real time (DAU, users joined today by source of acquisition, user activity today, 1 day ago and 1 week ago, etc).
 
+[Here](https://superset.lab.karpov.courses/superset/dashboard/1896/) you can see user decomposition by week: how many new users joined the app, how many left and how many retained by each week.
+
 [Feed and messenger](https://superset.lab.karpov.courses/superset/dashboard/1874/) dashboard combines the info of users of news feed and messenger and answers questions such as how many users user both messenger and news feed, how many do not use messenger and how mesages, likes, views are distributed.
+
+[This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1887/) shows user retention by source of acquisition whether it is organic or advertisment within last 20 days. Users by their start date (Y-axis) are colored in black and you can see how many are left by each day (X-axis)
