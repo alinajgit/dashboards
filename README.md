@@ -9,4 +9,4 @@ Here I want to show several dashboards representing key metrics for a mobile app
 
 [Feed and messenger](https://superset.lab.karpov.courses/superset/dashboard/1874/) dashboard combines the info of users of news feed and messenger and answers questions such as how many users use both messenger and news feed, how many do not use messenger at all, and how mesages, likes, views are distributed.
 
-[This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1887/) shows user retention within last 20 days by source of acquisition, whether it is organic or through advertisment. Users by their start date (Y-axis) are colored in black and you can see how many are left by each day (X-axis)
+[This dashboard](https://superset.lab.karpov.courses/superset/dashboard/1887/) shows user retention within last 20 days by source of acquisition, whether it is organic or through advertisment. Users by their start date (Y-axis) are colored in black and you can see how many are left by each day (X-axis).
